@@ -1,0 +1,12 @@
+{
+    "name": "omkar/timezones",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Omkar Kamble",
+            "email": "omkarok2390@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
