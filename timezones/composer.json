@@ -1,0 +1,14 @@
+{
+    "name": "omkarok2390/my-1st-package",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Omkar Kamble",
+            "email": "omkarok2390@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": "^5.3.3 || ^7.0"
+      }
+}
